@@ -11,8 +11,8 @@ export const ROUTER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.ROPSTEN]: '0xe4DBE9cbEa9C496Fb535e56394F430A3717eFCFA'
 }
 
-export const LANDING_PAGE = 'https://pangolin.exchange/'
-export const ANALYTICS_PAGE = 'https://info.pangolin.exchange/'
+export const LANDING_PAGE = 'https://pelicanswap.finance/'
+export const ANALYTICS_PAGE = 'https://info.pelicanswap.finance/'
 
 export const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000'
 
